@@ -108,6 +108,15 @@ There is a 45% possibility that Elvis had an identitical twin.
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
+Frequentist statistics assumes a certain level of uniformity in a sample. The underlying parameters of a population are fixed and, therefore, even if one has more specific information about a population segment, it is still reasonable to use information about the entire population to measure probability. Meanwhile, Bayesian statistics takes into account a series of combined inferences to reach a measure of probabillity. Bayesian statistics makes no assumptions and instead takes as best practice that what we know can continually be updated.
+
+Bayesians are focused on the likelihood of a set of outcomes for a particular population at hand while frequentists are focused on the long run outcome for an entire population and, relatedly, attempt to draw conclusions about that population from limited samples. For example, if a coin is tossed 14 times and 10 of those times result in heads, a frequentist would say that probabillity p of heads is 10/14. However, a Bayesian would think of p as a random variable with a distribution, and would investigate the likelihood of a particular value of p given the data collected. [More on this example here.](https://www.behind-the-enemy-lines.com/2008/01/are-you-bayesian-or-frequentist-or.html)
+
+One disadvantage of a Bayesian approach is that one must formulate a hypothesis prior to having any actual data, such that that hypothesis can be revised. A frequentist approach does not make any such prior assumptions about a hypothesis. [I found this source really helpful.](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/readings/MIT18_05S14_Reading20.pdf)
+
+Interestingly enough, there is a parallel to (or extension of?) this debate in the social sciences. Psychologists use a frequentist approach, but often falter because their samples and execution are biased in so many ways that it is difficult or impossible to control for all the variation. Anthropologists, on the other hand, necessarily start from a particular and biased viewpoint when they begin ethnography and spend their time doing fieldwork revising their assumptions in order to know something about a small group, making no claims about any larger group. Both groups are trying to better understand human behavior, but both approaches have pitfalls when not used jointly and critically.
+
+
 
 ---
 
